@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="報">
+	<direction id="1">7</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">7</direction>
+        <direction id="4">8</direction> 
+        <direction id="5">2</direction>
+        <direction id="6">7</direction> 
+        <direction id="7">7</direction>
+        <direction id="8">1</direction> 
+        <direction id="9">7,2,4</direction>
+        <direction id="10">1</direction> 
+        <direction id="11">7,2</direction>
+        <direction id="12">8</direction>
+</word>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>樓</chinese>
+		<animation>swf/b03_l08_v05_w01_ani.swf</animation>
+		<stroke>swf/b03_l08_v05_w01_str.swf</stroke>
+		<sound>mp3/lou2.mp3</sound>
+		<link>data/B6L10_1_w1.xml</link>
+	</word>
+</vocabulary>

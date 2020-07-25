@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>背</chinese>
+		<pinyin>bēi</pinyin>
+		<link>data/B6L9_1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>寒</chinese>
+		<pinyin>hán</pinyin>
+		<link>data/B6L9_2.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>景</chinese>
+		<pinyin>jǐng</pinyin>
+		<link>data/B6L9_3.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>演</chinese>
+		<pinyin>yǎn</pinyin>
+		<link>data/B6L9_4.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>神</chinese>
+		<pinyin>shén</pinyin>
+		<link>data/B6L9_5.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>森</chinese>
+		<pinyin>sēn</pinyin>
+		<link>data/B6L9_6.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>孩</chinese>
+		<pinyin>hái</pinyin>
+		<link>data/B6L9_7.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>蛋</chinese>
+		<pinyin>dàn</pinyin>
+		<link>data/b01_l17_v02.xml</link>
+	</vocabulary>   
+</list>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="3">
+		<chinese>針</chinese>
+		<animation>swf/B6L5_6_ani.swf</animation>
+		<stroke>swf/B6L5_6_str.swf</stroke>
+		<sound>mp3/zhen1.mp3</sound>
+		<link>data/B6L5_6_1.xml</link>
+	</word>
+</vocabulary>

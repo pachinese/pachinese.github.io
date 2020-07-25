@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>³ø</chinese>
+		<animation>swf/B6L3_4_ani.swf</animation>
+		<stroke>swf/B6L3_4_str.swf</stroke>
+		<sound>mp3/bao4.mp3</sound>
+		<link>data/B6L3_4.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>位</chinese>
+		<pinyin>wèi</pinyin>
+		<link>data/B5L3_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>偉</chinese>
+		<pinyin>wěi</pinyin>
+		<link>data/B6L7_2_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>學</chinese>
+		<pinyin>xué</pinyin>
+		<link>data/b02_l01_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>育</chinese>
+		<pinyin>yù</pinyin>
+		<link>data/b04_l03_v12.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>千</chinese>
+		<pinyin>qiān</pinyin>
+		<link>data/B6L7_5_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>百</chinese>
+		<pinyin>bǎi</pinyin>
+		<link>data/b04_l06_v02.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>話</chinese>
+		<pinyin>huà</pinyin>
+		<link>data/B6L7_7.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>化</chinese>
+		<pinyin>huà</pinyin>
+		<link>data/B6L7_8_w1.xml</link>
+	</vocabulary>   
+</list>

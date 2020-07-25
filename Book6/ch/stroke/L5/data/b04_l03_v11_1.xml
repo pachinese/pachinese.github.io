@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="體">
+	<direction id="1">1</direction>
+	<direction id="2">7,1</direction>
+	<direction id="3">7</direction>
+	<direction id="4">1</direction>
+	<direction id="5">1</direction>
+	<direction id="6">7,2</direction>
+	<direction id="7">1</direction>
+	<direction id="8">7,1,4</direction>
+	<direction id="9">8</direction>
+	<direction id="10">6</direction>
+	<direction id="11">1</direction>
+	<direction id="12">7,1,4</direction>
+	<direction id="13">7</direction>
+	<direction id="14">1</direction>
+	<direction id="15">1</direction>
+        <direction id="16">7</direction>
+	<direction id="17">7</direction>
+	<direction id="18">1</direction>
+	<direction id="19">7,1</direction>
+	<direction id="20">7</direction>
+	<direction id="21">8</direction>
+	<direction id="22">2</direction>
+	<direction id="23">7</direction>
+</word>

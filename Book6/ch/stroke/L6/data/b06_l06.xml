@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese> 檢</chinese>
+		<pinyin>jiǎn</pinyin>
+		<link>data/B6L6_1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>告</chinese>
+		<pinyin>gào</pinyin>
+		<link>data/B6L6_2_1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>需</chinese>
+		<pinyin>xū</pinyin>
+		<link>data/b06_l06_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>像</chinese>
+		<pinyin>xiàng</pinyin>
+		<link>data/B6L6_4.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>肚</chinese>
+		<pinyin>dù</pinyin>
+		<link>data/b02_l07_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>拉</chinese>
+		<pinyin>lā</pinyin>
+		<link>data/B6L6_6_1.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>查</chinese>
+		<pinyin>chá</pinyin>
+		<link>data/B6L6_7_1.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>醫</chinese>
+		<pinyin>yī</pinyin>
+		<link>data/B6L6_8.xml</link>
+	</vocabulary>   
+</list>

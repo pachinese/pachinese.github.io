@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>統</chinese>
+		<pinyin>tǒng</pinyin>
+		<link>data/B6L8_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>第</chinese>
+		<pinyin>dì</pinyin>
+		<link>data/b04_l03_v08.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>為</chinese>
+		<pinyin>wèi</pinyin>
+		<link>data/b02_l06_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>字</chinese>
+		<pinyin>zì</pinyin>
+		<link>data/B6L8_w4.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>寫</chinese>
+		<pinyin>xiě</pinyin>
+		<link>data/b04_l02_v11.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>同</chinese>
+		<pinyin>tóng</pinyin>
+		<link>data/B6L8_w6.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>量</chinese>
+		<pinyin>liáng</pinyin>
+		<link>data/B6L8_w7.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>進</chinese>
+		<pinyin>jìn</pinyin>
+		<link>data/b03_l06_v06.xml</link>
+	</vocabulary>   
+</list>

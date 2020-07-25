@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>°¶</chinese>
+		<animation>swf/B6L7_2_ani.swf</animation>
+		<stroke>swf/B6L7_2_str.swf</stroke>
+		<sound>mp3/wei3_f2.mp3</sound>
+		<link>data/B6L7_2.xml</link>
+
+	</word>
+</vocabulary>

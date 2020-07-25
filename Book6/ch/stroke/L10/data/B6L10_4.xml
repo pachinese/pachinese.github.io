@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>宮</chinese>
+		<animation>swf/B6L10_4_ani.swf</animation>
+		<stroke>swf/B6L10_4_str.swf</stroke>
+		<sound>mp3/gong1.mp3</sound>
+		<link>data/B6L10_4_w1.xml</link>
+	</word>
+</vocabulary>

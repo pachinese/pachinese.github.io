@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="3">
+		<chinese>步</chinese>
+		<animation>swf/B6L5_8_ani.swf</animation>
+		<stroke>swf/B6L5_8_str.swf</stroke>
+		<sound>mp3/bu4.mp3</sound>
+		<link>data/B6L5_8.xml</link>
+	</word>
+</vocabulary>

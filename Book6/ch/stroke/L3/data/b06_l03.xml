@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>軍</chinese>
+		<pinyin>jūn</pinyin>
+		<link>data/B6L3_1_1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>童</chinese>
+		<pinyin>tóng</pinyin>
+		<link>data/B6L3_2_1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>宜</chinese>
+		<pinyin>yí</pinyin>
+		<link>data/b06_l03_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>報</chinese>
+		<pinyin>bào</pinyin>
+		<link>data/B6L3_4_1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>相</chinese>
+		<pinyin>xiāng</pinyin>
+		<link>data/B6L3_5_1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>袋</chinese>
+		<pinyin>dài</pinyin>
+		<link>data/B6L3_6_1.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>睡</chinese>
+		<pinyin>shuì</pinyin>
+		<link>data/b02_l04_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>動</chinese>
+		<pinyin>dòng</pinyin>
+		<link>data/B6L3_8.xml</link>
+	</vocabulary>   
+</list>
