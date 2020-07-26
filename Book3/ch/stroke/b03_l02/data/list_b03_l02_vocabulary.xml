@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>瓜</chinese>
+		<pinyin>guā</pinyin>
+		<link>data/b03_l02_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>果</chinese>
+		<pinyin>guǒ</pinyin>
+		<link>data/b03_l02_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>玉</chinese>
+		<pinyin>yù</pinyin>
+		<link>data/b03_l02_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>米</chinese>
+		<pinyin>mǐ</pinyin>
+		<link>data/b03_l02_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>牛</chinese>
+		<pinyin>niú</pinyin>
+		<link>data/b03_l02_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>羊</chinese>
+		<pinyin>yáng</pinyin>
+		<link>data/b03_l02_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>豬</chinese>
+		<pinyin>zhū</pinyin>
+		<link>data/b03_l02_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>鴨</chinese>
+		<pinyin>yā</pinyin>
+		<link>data/b03_l02_v08.xml</link>
+	</vocabulary>
+</list>

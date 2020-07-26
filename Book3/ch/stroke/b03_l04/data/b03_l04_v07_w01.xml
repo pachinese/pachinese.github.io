@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="羽">
+	<direction id="1">7,1,4</direction>
+	<direction id="2">8</direction>
+	<direction id="3">6</direction>
+	<direction id="4">7,1,4</direction>
+	<direction id="5">8</direction>
+	<direction id="6">6</direction>	
+</word>

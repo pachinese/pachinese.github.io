@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>來</chinese>
+		<pinyin>lái</pinyin>
+		<link>data/b03_l08_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>去</chinese>
+		<pinyin>qù</pinyin>
+		<link>data/b03_l08_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>桌</chinese>
+		<pinyin>zhuō</pinyin>
+		<link>data/b03_l08_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>椅</chinese>
+		<pinyin>yǐ</pinyin>
+		<link>data/b03_l08_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>上</chinese>
+		<pinyin>shàng</pinyin>
+		<link>data/b03_l08_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>下</chinese>
+		<pinyin>xià</pinyin>
+		<link>data/b03_l08_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>左</chinese>
+		<pinyin>zuǒ</pinyin>
+		<link>data/b03_l08_v10.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>右</chinese>
+		<pinyin>yòu</pinyin>
+		<link>data/b03_l08_v09.xml</link>
+	</vocabulary>
+</list>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>你</chinese>
+		<pinyin>nǐ</pinyin>
+		<link>data/b03_l01_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>我</chinese>
+		<pinyin>wǒ</pinyin>
+		<link>data/b03_l01_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>他</chinese>
+		<pinyin>tā</pinyin>
+		<link>data/b03_l01_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>們</chinese>
+		<pinyin>men</pinyin>
+		<link>data/b03_l01_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>在</chinese>
+		<pinyin>zài</pinyin>
+		<link>data/b03_l01_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>兔</chinese>
+		<pinyin>tù</pinyin>
+		<link>data/b03_l01_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>馬</chinese>
+		<pinyin>mă</pinyin>
+		<link>data/b03_l01_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>水</chinese>
+		<pinyin>shuǐ</pinyin>
+		<link>data/b03_l01_v08.xml</link>
+	</vocabulary>   
+</list>

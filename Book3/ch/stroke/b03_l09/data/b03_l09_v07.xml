@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>件</chinese>
+		<animation>swf/b03_l09_v07_w02_ani.swf</animation>
+		<stroke>swf/b03_l09_v07_w02_str.swf</stroke>
+		<sound>mp3/B3A4_L09_08.mp3</sound>
+		<link>data/b03_l09_v07_w02.xml</link>
+
+	</word>
+</vocabulary>

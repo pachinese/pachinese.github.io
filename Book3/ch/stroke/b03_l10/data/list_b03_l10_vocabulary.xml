@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>很</chinese>
+		<pinyin>hěn</pinyin>
+		<link>data/b03_l10_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>好</chinese>
+		<pinyin>hăo</pinyin>
+		<link>data/b03_l10_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>比</chinese>
+		<pinyin>bǐ</pinyin>
+		<link>data/b03_l10_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>不</chinese>
+		<pinyin>bù</pinyin>
+		<link>data/b03_l10_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>太</chinese>
+		<pinyin>tài</pinyin>
+		<link>data/b03_l10_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>多</chinese>
+		<pinyin>duō</pinyin>
+		<link>data/b03_l10_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>少</chinese>
+		<pinyin>shăo</pinyin>
+		<link>data/b03_l10_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>錢</chinese>
+		<pinyin>qián</pinyin>
+		<link>data/b03_l10_v08.xml</link>
+	</vocabulary>
+</list>

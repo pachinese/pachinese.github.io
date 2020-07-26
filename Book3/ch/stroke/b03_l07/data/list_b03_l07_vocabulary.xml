@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>用</chinese>
+		<pinyin>yòng</pinyin>
+		<link>data/b03_l07_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>刀</chinese>
+		<pinyin>dāo</pinyin>
+		<link>data/b03_l07_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>叉</chinese>
+		<pinyin>chā</pinyin>
+		<link>data/b03_l07_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>筷</chinese>
+		<pinyin>kuài</pinyin>
+		<link>data/b03_l07_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>人</chinese>
+		<pinyin>rén</pinyin>
+		<link>data/b03_l07_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>年</chinese>
+		<pinyin>nián</pinyin>
+		<link>data/b03_l07_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>紅</chinese>
+		<pinyin>hóng</pinyin>
+		<link>data/b03_l07_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>包</chinese>
+		<pinyin>bāo</pinyin>
+		<link>data/b03_l07_v08.xml</link>
+	</vocabulary>
+</list>

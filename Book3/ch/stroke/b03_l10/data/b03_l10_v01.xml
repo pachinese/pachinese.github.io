@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>很</chinese>
+		<animation>swf/b01_l08_v02_w01_ani.swf</animation>
+		<stroke>swf/b01_l08_v02_w01_str.swf</stroke>
+		<sound>mp3/B1A4_L08_02.mp3</sound>
+		<link>data/b01_l08_v02_w01.xml</link>
+	</word>
+</vocabulary>

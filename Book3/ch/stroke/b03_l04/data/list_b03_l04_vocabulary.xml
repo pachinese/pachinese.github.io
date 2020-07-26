@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>打</chinese>
+		<pinyin>dǎ</pinyin>
+		<link>data/b03_l04_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>功</chinese>
+		<pinyin>gōng</pinyin>
+		<link>data/b03_l04_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>夫</chinese>
+		<pinyin>fū</pinyin>
+		<link>data/b03_l04_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>球</chinese>
+		<pinyin>qiú</pinyin>
+		<link>data/b03_l04_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>日</chinese>
+		<pinyin>rì</pinyin>
+		<link>data/b03_l04_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>見</chinese>
+		<pinyin>jiàn</pinyin>
+		<link>data/b03_l04_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>羽</chinese>
+		<pinyin>yǔ</pinyin>
+		<link>data/b03_l04_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>毛</chinese>
+		<pinyin>máo</pinyin>
+		<link>data/b03_l04_v08.xml</link>
+	</vocabulary>
+</list>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>月</chinese>
+		<animation>swf/yue4_moon_ani.swf</animation>
+		<stroke>swf/yue4_moon_str.swf</stroke>
+		<sound>mp3/yue4.mp3</sound>
+		<link>data/yue4_moon.xml</link>
+	</word>
+</vocabulary>

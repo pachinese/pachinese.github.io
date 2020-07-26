@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>生</chinese>
+		<pinyin>shēng</pinyin>
+		<link>data/b03_l06_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>快</chinese>
+		<pinyin>kuài</pinyin>
+		<link>data/b03_l06_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>看</chinese>
+		<pinyin>kàn</pinyin>
+		<link>data/b03_l06_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>的</chinese>
+		<pinyin>de</pinyin>
+		<link>data/b03_l06_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>吃</chinese>
+		<pinyin>chī</pinyin>
+		<link>data/b03_l06_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>切</chinese>
+		<pinyin>qiē</pinyin>
+		<link>data/b03_l06_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>唱</chinese>
+		<pinyin>chàng</pinyin>
+		<link>data/b03_l06_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>拿</chinese>
+		<pinyin>ná</pinyin>
+		<link>data/b03_l06_v08.xml</link>
+	</vocabulary>
+</list>

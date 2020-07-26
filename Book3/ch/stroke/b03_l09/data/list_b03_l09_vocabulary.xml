@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>那</chinese>
+		<pinyin>nà</pinyin>
+		<link>data/b03_l09_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>件</chinese>
+		<pinyin>jiàn</pinyin>
+		<link>data/b03_l09_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>衣</chinese>
+		<pinyin>yī</pinyin>
+		<link>data/b03_l09_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>服</chinese>
+		<pinyin>fú</pinyin>
+		<link>data/b03_l09_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>大</chinese>
+		<pinyin>dà</pinyin>
+		<link>data/b03_l09_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>小</chinese>
+		<pinyin>xiăo</pinyin>
+		<link>data/b03_l09_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>這</chinese>
+		<pinyin>zhè</pinyin>
+		<link>data/b02_l09_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>雙</chinese>
+		<pinyin>shuāng</pinyin>
+		<link>data/b03_l09_v08.xml</link>
+	</vocabulary>
+</list>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="椅">
+	<direction id="1">7</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">2</direction>
+        <direction id="4">8</direction>
+        <direction id="5">7</direction> 
+        <direction id="6">2</direction>
+        <direction id="7">8</direction>
+        <direction id="8">7</direction>
+        <direction id="9">1</direction> 
+        <direction id="10">7,1</direction>
+        <direction id="11">7</direction> 
+        <direction id="12">1,4</direction>
+</word>
+

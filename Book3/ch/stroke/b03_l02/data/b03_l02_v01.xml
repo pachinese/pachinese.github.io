@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>瓜</chinese>
+		<animation>swf/b01_l16_v05_w02_ani.swf</animation>
+		<stroke>swf/b01_l16_v05_w02_str.swf</stroke>
+		<sound>mp3/b01_l16_v05_w02.mp3</sound>
+		<link>data/b01_l16_v05_w02.xml</link>
+	</word>
+</vocabulary>

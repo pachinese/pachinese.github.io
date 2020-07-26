@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>冰</chinese>
+		<pinyin>bīng</pinyin>
+		<link>data/b03_l03_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>三</chinese>
+		<pinyin>sān</pinyin>
+		<link>data/b03_l03_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>四</chinese>
+		<pinyin>sì</pinyin>
+		<link>data/b03_l03_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>五</chinese>
+		<pinyin>wŭ</pinyin>
+		<link>data/b03_l03_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>六</chinese>
+		<pinyin>liù</pinyin>
+		<link>data/b03_l03_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>七</chinese>
+		<pinyin>qī</pinyin>
+		<link>data/b03_l03_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>八</chinese>
+		<pinyin>bā</pinyin>
+		<link>data/b03_l03_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>九</chinese>
+		<pinyin>jiŭ</pinyin>
+		<link>data/b03_l03_v08.xml</link>
+	</vocabulary>
+</list>
