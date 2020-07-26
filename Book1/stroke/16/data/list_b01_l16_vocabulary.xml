@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>果</chinese>
+		<pinyin>guǒ</pinyin>
+		<link>data/b01_l16_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>香蕉</chinese>
+		<pinyin>xiāngjiāo</pinyin>
+		<link>data/b01_l16_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>草莓</chinese>
+		<pinyin>căoméi</pinyin>
+		<link>data/b01_l16_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>西瓜</chinese>
+		<pinyin>xīguā</pinyin>
+		<link>data/b01_l16_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>吃</chinese>
+		<pinyin>chī</pinyin>
+		<link>data/b01_l16_v06.xml</link>
+	</vocabulary>
+</list>

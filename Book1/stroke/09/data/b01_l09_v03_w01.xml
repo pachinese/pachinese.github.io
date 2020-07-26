@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="跳">
+	<direction id="1">1</direction>
+        <direction id="2">7,1</direction> 
+        <direction id="3">7</direction>
+        <direction id="4">1</direction>
+        <direction id="5">7</direction> 
+        <direction id="6">1</direction>
+        <direction id="7">6</direction>  
+        <direction id="8">1</direction>   
+        <direction id="9">7</direction>
+        <direction id="10">6</direction> 
+        <direction id="11">1,7,5</direction>
+        <direction id="12">2</direction>  
+        <direction id="13">8</direction>         
+</word>

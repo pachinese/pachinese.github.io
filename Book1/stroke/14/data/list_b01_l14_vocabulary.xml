@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>套</chinese>
+		<pinyin>tào</pinyin>
+		<link>data/b01_l14_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>鞋</chinese>
+		<pinyin>xié</pinyin>
+		<link>data/b01_l14_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>帽</chinese>
+		<pinyin>mào</pinyin>
+		<link>data/b01_l14_v03.xml</link>
+	</vocabulary>
+        <vocabulary id="4">
+		<chinese>誰</chinese>
+		<pinyin>shéi</pinyin>
+		<link>data/b01_l14_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>裙</chinese>
+		<pinyin>qún</pinyin>
+		<link>data/b01_l14_v05.xml</link>
+	</vocabulary>
+</list>

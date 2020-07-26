@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<lesson id="1">
+		<chinese>蘋果</chinese>
+		<english>píngguǒ</english>
+		<link>data/b01_l16_v01.xml</link>
+	</lesson>
+	<lesson id="2">
+		<chinese>香蕉</chinese>
+		<english>xiāngjiāo</english>
+		<link>data/b01_l16_v02.xml</link>
+	</lesson>
+	<lesson id="3">
+		<chinese>草莓</chinese>
+		<english>căoméi</english>
+		<link>data/b01_l16_v03.xml</link>
+	</lesson>
+	<lesson id="4">
+		<chinese>葡萄</chinese>
+		<english>pútáo</english>
+		<link>data/b01_l16_v04.xml</link>
+	</lesson>
+	<lesson id="5">
+		<chinese>西瓜</chinese>
+		<english>xīguā</english>
+		<link>data/b01_l16_v05.xml</link>
+	</lesson>
+	<lesson id="6">
+		<chinese>吃</chinese>
+		<english>chī</english>
+		<link>data/b01_l16_v06.xml</link>
+	</lesson>
+	<lesson id="7">
+		<chinese>很好吃</chinese>
+		<english>hěn hăo chī</english>
+		<link>data/b01_l16_v07.xml</link>
+	</lesson>
+	<lesson id="8">
+		<chinese>不好吃</chinese>
+		<english>bù hăo chī</english>
+		<link>data/b01_l16_v08.xml</link>
+	</lesson>
+</list>

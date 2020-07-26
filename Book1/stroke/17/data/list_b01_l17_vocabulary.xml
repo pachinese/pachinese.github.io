@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>糖</chinese>
+		<pinyin>táng</pinyin>
+		<link>data/b01_l17_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>蛋糕</chinese>
+		<pinyin>dàngāo</pinyin>
+		<link>data/b01_l17_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>乾</chinese>
+		<pinyin>gān</pinyin>
+		<link>data/b01_l17_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>力</chinese>
+		<pinyin>lì</pinyin>
+		<link>data/b01_l17_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>冰</chinese>
+		<pinyin>bīng</pinyin>
+		<link>data/b01_l17_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+ 		<chinese>要</chinese>
+		<pinyin>yào</pinyin>
+		<link>data/b01_l17_v06.xml</link>
+	</vocabulary>
+</list>

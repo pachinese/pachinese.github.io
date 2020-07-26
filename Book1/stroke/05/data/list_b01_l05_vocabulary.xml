@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>他</chinese>
+		<pinyin>tā</pinyin>
+		<link>data/b01_l05_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>她</chinese>
+		<pinyin>tā</pinyin>
+		<link>data/b01_l05_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>沒有</chinese>
+		<pinyin>méiyǒu</pinyin>
+		<link>data/b01_l05_v03.xml</link>
+	</vocabulary>
+        <vocabulary id="4">
+		<chinese>一個</chinese>
+		<pinyin>yíge</pinyin>
+		<link>data/b01_l05_v04.xml</link>
+	</vocabulary>
+</list>

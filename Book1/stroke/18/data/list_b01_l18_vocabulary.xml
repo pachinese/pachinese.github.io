@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>牛奶</chinese>
+		<pinyin>niúnăi</pinyin>
+		<link>data/b01_l18_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>果汁</chinese>
+		<pinyin>guǒzhī</pinyin>
+		<link>data/b01_l18_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>汽水</chinese>
+		<pinyin>qìshuǐ</pinyin>
+		<link>data/b01_l18_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>水</chinese>
+		<pinyin>shuǐ</pinyin>
+		<link>data/b01_l18_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>喝</chinese>
+		<pinyin>hē</pinyin>
+		<link>data/b01_l18_v05.xml</link>
+	</vocabulary>
+</list>

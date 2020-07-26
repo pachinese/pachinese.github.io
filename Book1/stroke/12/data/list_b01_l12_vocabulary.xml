@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>踢足球</chinese>
+		<pinyin>tīzúqiú</pinyin>
+		<link>data/b01_l12_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>電</chinese>
+		<pinyin>diàn</pinyin>
+		<link>data/b01_l12_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>喜歡</chinese>
+		<pinyin>xǐhuān</pinyin>
+		<link>data/b01_l12_v03.xml</link>
+	</vocabulary>
+</list>

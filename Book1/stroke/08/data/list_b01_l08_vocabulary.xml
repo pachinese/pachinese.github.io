@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>子</chinese>
+		<pinyin>zǐ</pinyin>
+		<link>data/b01_l08_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>很大</chinese>
+		<pinyin>hěndà</pinyin>
+		<link>data/b01_l08_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>小</chinese>
+		<pinyin>xiăo</pinyin>
+		<link>data/b01_l08_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>長</chinese>
+		<pinyin>cháng</pinyin>
+		<link>data/b01_l08_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>短</chinese>
+		<pinyin>duăn</pinyin>
+		<link>data/b01_l08_v05.xml</link>
+	</vocabulary>
+</list>

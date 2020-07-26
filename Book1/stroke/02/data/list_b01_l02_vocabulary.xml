@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>這</chinese>
+		<pinyin>zhè</pinyin>
+		<link>data/b01_l02_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>的</chinese>
+		<pinyin>de</pinyin>
+		<link>data/b01_l02_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>哥</chinese>
+		<pinyin>gē</pinyin>
+		<link>data/b01_l02_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>姐</chinese>
+		<pinyin>jiě</pinyin>
+		<link>data/b01_l02_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>弟</chinese>
+		<pinyin>dì</pinyin>
+		<link>data/b01_l02_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>妹</chinese>
+		<pinyin>mèi</pinyin>
+		<link>data/b01_l02_v06.xml</link>
+	</vocabulary>
+</list>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="隻">
+	<direction id="1">2</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">8</direction>
+        <direction id="4">7</direction> 
+        <direction id="5">7</direction>
+        <direction id="6">7</direction>
+        <direction id="7">1</direction>
+        <direction id="8">7</direction>
+        <direction id="9">7,2</direction>
+        <direction id="10">8</direction>
+</word>

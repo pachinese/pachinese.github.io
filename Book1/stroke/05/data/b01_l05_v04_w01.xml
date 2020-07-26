@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="沒">
+	<direction id="1">8</direction>
+        <direction id="2">8</direction> 
+        <direction id="3">6</direction>
+        <direction id="4">2</direction> 
+        <direction id="5">7,1,4</direction>
+        <direction id="6">7,2</direction>
+        <direction id="7">8</direction>
+</word>

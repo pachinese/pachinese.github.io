@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>畫畫</chinese>
+		<pinyin>huàhuà</pinyin>
+		<link>data/b01_l11_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>跳</chinese>
+		<pinyin>tiào</pinyin>
+		<link>data/b01_l11_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>看書</chinese>
+		<pinyin>kànshū</pinyin>
+		<link>data/b01_l11_v03.xml</link>
+	</vocabulary>
+</list>

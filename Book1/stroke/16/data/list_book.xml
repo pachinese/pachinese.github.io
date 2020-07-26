@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>蘋果</chinese>
+		<pinyin>píngguǒ</pinyin>
+		<link>listData/l16_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>香蕉</chinese>
+		<pinyin>xiāngjiāo</pinyin>
+		<link>listData/l16_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>草莓</chinese>
+		<pinyin>căoméi</pinyin>
+		<link>listData/l16_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>葡萄</chinese>
+		<pinyin>pútáo</pinyin>
+		<link>listData/l16_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>西瓜</chinese>
+		<pinyin>xīguā</pinyin>
+		<link>listData/l16_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>吃</chinese>
+		<pinyin>chī</pinyin>
+		<link>listData/l16_v06.xml</link>
+	</vocabulary>
+	<vocabulary id="7">
+		<chinese>很好吃</chinese>
+		<pinyin>hěn hăo chī</pinyin>
+		<link>listData/l16_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="8">
+		<chinese>不好吃</chinese>
+		<pinyin>bù hăo chī</pinyin>
+		<link>listData/l16_v08.xml</link>
+	</vocabulary>
+</list>

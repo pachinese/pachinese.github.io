@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>走</chinese>
+		<pinyin>zǒu</pinyin>
+		<link>data/b01_l09_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>爬</chinese>
+		<pinyin>pá</pinyin>
+		<link>data/b01_l09_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>跳</chinese>
+		<pinyin>tiào</pinyin>
+		<link>data/b01_l09_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>跑</chinese>
+		<pinyin>păo</pinyin>
+		<link>data/b01_l09_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>飛</chinese>
+		<pinyin>fēi</pinyin>
+		<link>data/b01_l09_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>會</chinese>
+		<pinyin>huì</pinyin>
+		<link>data/b01_l09_v06.xml</link>
+	</vocabulary>
+</list>
