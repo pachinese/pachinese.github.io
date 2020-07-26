@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>湖</chinese>
+		<animation>swf/b02_l05_v10_w01_ani.swf</animation>
+		<stroke>swf/b02_l05_v10_w01_str.swf</stroke>
+		<sound>mp3/B2A4L05_13.mp3</sound>
+		<link>data/b02_l05_v10_w01.xml</link>
+	</word>
+</vocabulary>

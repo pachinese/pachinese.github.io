@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="廳">
+	<direction id="1">8</direction>
+        <direction id="2">7</direction> 
+        <direction id="3">2</direction>
+        <direction id="4">7</direction>
+        <direction id="5">1</direction>
+        <direction id="6">1</direction> 
+        <direction id="7">7</direction>
+        <direction id="8">7</direction>
+        <direction id="9">7</direction>
+        <direction id="10">2</direction> 
+        <direction id="11">7</direction>
+        <direction id="12">1</direction>
+        <direction id="13">6</direction>
+        <direction id="14">7</direction>
+        <direction id="15">2</direction> 
+        <direction id="16">1</direction>
+        <direction id="17">7,2</direction> 
+        <direction id="18">1</direction>
+        <direction id="19">1</direction>
+        <direction id="20">7</direction>
+        <direction id="21">7</direction> 
+        <direction id="22">1</direction>
+        <direction id="23">1,7,6</direction>
+        <direction id="24">8</direction>
+        <direction id="25">8</direction>
+</word>
+

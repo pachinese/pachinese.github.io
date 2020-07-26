@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="分">
+	<direction id="1">2</direction>
+        <direction id="2">8</direction> 
+        <direction id="3">7,1,4</direction>
+        <direction id="4">2</direction>
+</word>
+

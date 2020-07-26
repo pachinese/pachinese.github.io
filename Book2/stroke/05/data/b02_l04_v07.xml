@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>具</chinese>
+		<animation>swf/b02_l04_v09_w03_ani.swf</animation>
+		<stroke>swf/b02_l04_v09_w03_str.swf</stroke>
+		<sound>mp3/B2A4L04_16.mp3</sound>
+		<link>data/b02_l04_v09_w03.xml</link>
+	</word>
+</vocabulary>

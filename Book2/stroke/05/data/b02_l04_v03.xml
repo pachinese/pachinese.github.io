@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>室</chinese>
+		<animation>swf/shi4_room_ani.swf</animation>
+		<stroke>swf/shi4_room_str.swf</stroke>
+		<sound>mp3/shi4-f.mp3</sound>
+		<link>data/shi4_room.xml</link>
+	</word>
+</vocabulary>

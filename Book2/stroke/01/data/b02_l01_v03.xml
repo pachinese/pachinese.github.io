@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>撇</chinese>
+		<animation>swf/b02_l0p_v03_w01_ani.swf</animation>
+		<stroke>swf/b02_l0p_v03_w01_str.swf</stroke>
+		<sound>mp3/pie3-f.mp3</sound>
+		<link>data/b02_l0p_v03_w01.xml</link>
+	</word>
+</vocabulary>

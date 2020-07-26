@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>目</chinese>
+		<animation>swf/mu4_eye_ani.swf</animation>
+		<stroke>swf/mu4_eye_str.swf</stroke>
+		<sound>mp3/mu4-f.mp3</sound>
+		<link>data/mu4_eye.xml</link>
+	</word>
+</vocabulary>

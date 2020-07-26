@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="以">
+	<direction id="1">1</direction>
+        <direction id="2">6</direction> 
+        <direction id="3">8</direction>
+        <direction id="4">2</direction>
+        <direction id="5">8</direction> 
+</word>
+

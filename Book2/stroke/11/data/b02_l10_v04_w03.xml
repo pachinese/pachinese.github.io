@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="店">
+	<direction id="1">8</direction>
+        <direction id="2">7</direction> 
+        <direction id="3">2</direction>
+        <direction id="4">1</direction>
+        <direction id="5">7</direction>
+        <direction id="6">1</direction> 
+        <direction id="7">7,1</direction>
+        <direction id="8">7</direction>
+</word>
+

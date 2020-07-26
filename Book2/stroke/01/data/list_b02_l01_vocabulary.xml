@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>橫</chinese>
+		<pinyin>héng</pinyin>
+		<link>data/b02_l01_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>豎</chinese>
+		<pinyin>shù</pinyin>
+		<link>data/b02_l01_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>撇</chinese>
+		<pinyin>piě</pinyin>
+		<link>data/b02_l01_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>點</chinese>
+		<pinyin>diăn</pinyin>
+		<link>data/b02_l01_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>提</chinese>
+		<pinyin>tí</pinyin>
+		<link>data/b02_l01_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>捺</chinese>
+		<pinyin>nà</pinyin>
+		<link>data/b02_l01_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>橫折</chinese>
+		<pinyin>héngzhé</pinyin>
+		<link>data/b02_l01_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>豎折</chinese>
+		<pinyin>shùzhé</pinyin>
+		<link>data/b02_l01_v08.xml</link>
+	</vocabulary>
+        <vocabulary id="9">
+		<chinese>橫鉤</chinese>
+		<pinyin>hénggōu</pinyin>
+		<link>data/b02_l01_v09.xml</link>
+	</vocabulary>
+        <vocabulary id="10">
+		<chinese>豎挑</chinese>
+		<pinyin>shùtiāo</pinyin>
+		<link>data/b02_l01_v10.xml</link>
+	</vocabulary>
+</list>

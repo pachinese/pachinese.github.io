@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="洗">
+	<direction id="1">8</direction>
+        <direction id="2">8</direction> 
+        <direction id="3">6</direction>
+        <direction id="4">2</direction>
+        <direction id="5">7</direction> 
+        <direction id="6">1</direction>
+        <direction id="7">7</direction> 
+        <direction id="8">2</direction>
+        <direction id="9">1,7,5</direction> 
+</word>
+

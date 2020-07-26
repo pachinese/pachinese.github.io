@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	 <word id="1">
+		<chinese>地</chinese>
+		<animation>swf/b02_l05_v08_w02_ani.swf</animation>
+		<stroke>swf/b02_l05_v08_w02_str.swf</stroke>
+		<sound>mp3/B2A4L05_11.mp3</sound>
+		<link>data/b02_l05_v08_w02.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>橫折曲鉤</chinese>
+		<animation>swf/b02_l0p_v19_w01_ani.swf</animation>
+		<stroke>swf/b02_l0p_v19_w01_str.swf</stroke>
+		<sound>mp3/heng2zhe2qu1gou1.mp3</sound>
+		<link>data/b02_l0p_v19_w01.xml</link>
+	</word>
+</vocabulary>

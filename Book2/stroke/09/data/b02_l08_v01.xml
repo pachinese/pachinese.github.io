@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>心</chinese>
+		<animation>swf/xin1_heart_ani.swf</animation>
+		<stroke>swf/xin1_heart_str.swf</stroke>
+		<sound>mp3/xin1-f.mp3</sound>
+		<link>data/xin1_heart.xml</link>
+	</word>
+</vocabulary>

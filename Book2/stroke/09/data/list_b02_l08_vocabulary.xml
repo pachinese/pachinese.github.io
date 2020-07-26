@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>心</chinese>
+		<pinyin>xīn</pinyin>
+		<link>data/b02_l08_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>想</chinese>
+		<pinyin>xiăng</pinyin>
+		<link>data/b02_l08_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>汁</chinese>
+		<pinyin>zhī</pinyin>
+		<link>data/b02_l08_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>包</chinese>
+		<pinyin>bāo</pinyin>
+		<link>data/b02_l08_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>出</chinese>
+		<pinyin>chū</pinyin>
+		<link>data/b02_l08_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>車</chinese>
+		<pinyin>chē</pinyin>
+		<link>data/b02_l08_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>可</chinese>
+		<pinyin>kě</pinyin>
+		<link>data/b02_l08_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>以</chinese>
+		<pinyin>yǐ</pinyin>
+		<link>data/b02_l08_v08.xml</link>
+	</vocabulary>
+</list>

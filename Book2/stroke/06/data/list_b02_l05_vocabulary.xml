@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>天</chinese>
+		<pinyin>tiān</pinyin>
+		<link>data/b02_l05_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>去</chinese>
+		<pinyin>qù</pinyin>
+		<link>data/b02_l05_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>家</chinese>
+		<pinyin>jiā</pinyin>
+		<link>data/b02_l05_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>好</chinese>
+		<pinyin>hăo</pinyin>
+		<link>data/b02_l05_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>草</chinese>
+		<pinyin>căo</pinyin>
+		<link>data/b02_l05_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>地</chinese>
+		<pinyin>dì</pinyin>
+		<link>data/b02_l05_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>花</chinese>
+		<pinyin>huā</pinyin>
+		<link>data/b02_l05_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>湖</chinese>
+		<pinyin>hú</pinyin>
+		<link>data/b02_l05_v08.xml</link>
+	</vocabulary>
+</list>

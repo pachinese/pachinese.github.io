@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>小</chinese>
+		<pinyin>xiăo</pinyin>
+		<link>data/b02_l02_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>三</chinese>
+		<pinyin>sān</pinyin>
+		<link>data/b02_l02_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>四</chinese>
+		<pinyin>sì</pinyin>
+		<link>data/b02_l02_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>不</chinese>
+		<pinyin>bù</pinyin>
+		<link>data/b02_l02_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+	        <chinese>生</chinese>
+		<pinyin>shēng</pinyin>
+		<link>data/b02_l02_v06.xml</link>	
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>工</chinese>
+		<pinyin>gōng</pinyin>
+		<link>data/b02_l02_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>上</chinese>
+		<pinyin>shàng</pinyin>
+		<link>data/b02_l02_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>士</chinese>
+		<pinyin>shì</pinyin>
+		<link>data/b02_l02_v08.xml</link>
+	</vocabulary>
+</list>

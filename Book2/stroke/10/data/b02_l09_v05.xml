@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>口</chinese>
+		<animation>swf/kou3_mouth_ani.swf</animation>
+		<stroke>swf/kou3_mouth_str.swf</stroke>
+		<sound>mp3/kou3-f.mp3</sound>
+		<link>data/kou3_mouth.xml</link>
+	</word>
+</vocabulary>

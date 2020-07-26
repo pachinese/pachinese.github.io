@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>火</chinese>
+		<pinyin>huǒ</pinyin>
+		<link>data/b02_l10_v01.xml</link>
+	</vocabulary>
+        <vocabulary id="2">
+		<chinese>炒</chinese>
+		<pinyin>chăo</pinyin>
+		<link>data/b02_l10_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>食</chinese>
+		<pinyin>shí</pinyin>
+		<link>data/b02_l10_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>飯</chinese>
+		<pinyin>fàn</pinyin>
+		<link>data/b02_l10_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>問</chinese>
+		<pinyin>wèn</pinyin>
+		<link>data/b02_l10_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>杯</chinese>
+		<pinyin>bēi</pinyin>
+		<link>data/b02_l10_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>炸</chinese>
+		<pinyin>zhá</pinyin>
+		<link>data/b02_l10_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>要</chinese>
+		<pinyin>yào</pinyin>
+		<link>data/b02_l10_v08.xml</link>
+	</vocabulary>
+</list>

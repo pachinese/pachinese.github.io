@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="西">
+	<direction id="1">7</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">7,1,4</direction>
+        <direction id="4">1</direction>
+        <direction id="5">1,7</direction> 
+        <direction id="6">7</direction>
+</word>
+

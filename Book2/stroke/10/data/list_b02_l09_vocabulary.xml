@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>牛</chinese>
+		<pinyin>niú</pinyin>
+		<link>data/b02_l09_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>盒</chinese>
+		<pinyin>hé</pinyin>
+		<link>data/b02_l09_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>果</chinese>
+		<pinyin>guǒ</pinyin>
+		<link>data/b02_l09_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>買</chinese>
+		<pinyin>măi</pinyin>
+		<link>data/b02_l09_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>口</chinese>
+		<pinyin>kǒu</pinyin>
+		<link>data/b02_l09_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>吃</chinese>
+		<pinyin>chī</pinyin>
+		<link>data/b02_l09_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>是</chinese>
+		<pinyin>shì</pinyin>
+		<link>data/b02_l09_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>兩</chinese>
+		<pinyin>liăng</pinyin>
+		<link>data/b02_l09_v08.xml</link>
+	</vocabulary>
+</list>

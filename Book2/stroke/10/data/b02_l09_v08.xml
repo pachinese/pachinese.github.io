@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>兩</chinese>
+		<animation>swf/liang3_two_ani.swf</animation>
+		<stroke>swf/liang3_two_str.swf</stroke>
+		<sound>mp3/liang3-f.mp3</sound>
+		<link>data/liang3_two.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+        <word id="1">
+		<chinese>浴</chinese>
+		<animation>swf/yu4_bath_ani.swf</animation>
+		<stroke>swf/yu4_bath_str.swf</stroke>
+		<sound>mp3/yu4.mp3</sound>
+		<link>data/yu4_bath.xml</link>
+	</word> 
+</vocabulary>

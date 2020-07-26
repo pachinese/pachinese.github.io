@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>木</chinese>
+		<pinyin>mù</pinyin>
+		<link>data/b02_l03_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>床</chinese>
+		<pinyin>chuáng</pinyin>
+		<link>data/b02_l03_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>衣</chinese>
+		<pinyin>yī</pinyin>
+		<link>data/b02_l03_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>子</chinese>
+		<pinyin>zǐ</pinyin>
+		<link>data/b02_l03_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>目</chinese>
+		<pinyin>mù</pinyin>
+		<link>data/b02_l03_v05.xml</link>
+	</vocabulary>
+        <vocabulary id="6">
+		<chinese>見</chinese>
+		<pinyin>jiàn</pinyin>
+		<link>data/b02_l03_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>看</chinese>
+		<pinyin>kàn</pinyin>
+		<link>data/b02_l03_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>下</chinese>
+		<pinyin>xià</pinyin>
+		<link>data/b02_l03_v08.xml</link>
+	</vocabulary>
+</list>

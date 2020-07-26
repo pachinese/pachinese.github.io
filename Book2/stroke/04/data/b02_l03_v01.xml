@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>木</chinese>
+		<animation>swf/mu4_tree_ani.swf</animation>
+		<stroke>swf/mu4_tree_str.swf</stroke>
+		<sound>mp3/mu4-f.mp3</sound>
+		<link>data/mu4_tree.xml</link>
+	</word>
+</vocabulary>
