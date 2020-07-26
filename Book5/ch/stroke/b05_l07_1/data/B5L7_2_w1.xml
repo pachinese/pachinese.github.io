@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>鮮</chinese>
+		<animation>swf/B5L7_2_ani.swf</animation>
+		<stroke>swf/B5L7_2_str.swf</stroke>
+		<sound>mp3/xian1.mp3</sound>
+		<link>data/B5L7_2.xml</link>
+
+	</word>
+</vocabulary>

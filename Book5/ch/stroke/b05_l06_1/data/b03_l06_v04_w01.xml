@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="漂">
+	<direction id="1">8</direction>
+	<direction id="2">8</direction>
+	<direction id="3">6</direction>
+	<direction id="4">7</direction>
+	<direction id="5">1</direction>
+	<direction id="6">7,1</direction>
+	<direction id="7">1</direction>
+	<direction id="8">1</direction>
+	<direction id="9">7</direction>
+	<direction id="10">7</direction>
+	<direction id="11">7</direction>
+	<direction id="12">1</direction>
+	<direction id="13">2</direction>
+	<direction id="14">8</direction>
+</word>
