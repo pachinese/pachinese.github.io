@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>休</chinese>
+		<animation>swf/b04_l08_v07ani.swf</animation>
+		<stroke>swf/b04_l08_v07str.swf</stroke>
+		<sound>mp3/xiu1-f.mp3</sound>
+		<link>data/b04_l08_v07_w01.xml</link>
+	</word>
+</vocabulary>

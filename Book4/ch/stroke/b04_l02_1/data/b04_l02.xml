@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>假</chinese>
+		<pinyin>jià </pinyin>
+		<link>data/b04_l02_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>火</chinese>
+		<pinyin>huǒ </pinyin>
+		<link>data/b04_l02_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>營</chinese>
+		<pinyin>yíng </pinyin>
+		<link>data/b04_l02_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>無</chinese>
+		<pinyin>wú </pinyin>
+		<link>data/b04_l02_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>文</chinese>
+		<pinyin>wén </pinyin>
+		<link>data/b04_l02_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>教</chinese>
+		<pinyin>jiāo </pinyin>
+		<link>data/b04_l02_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>活</chinese>
+		<pinyin>huó </pinyin>
+		<link>data/b04_l02_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>歌</chinese>
+		<pinyin>gē </pinyin>
+		<link>data/b04_l02_v08.xml</link>
+	</vocabulary>   
+</list>

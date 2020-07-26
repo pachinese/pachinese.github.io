@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>營</chinese>
+		<animation>swf/B4L2_v31_ani.swf</animation>
+		<stroke>swf/B4L2_v31_str.swf</stroke>
+		<sound>mp3/ying2-f.mp3</sound>
+		<link>data/b04_l02_v03_w01.xml</link>
+	</word>
+</vocabulary>

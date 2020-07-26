@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>秋</chinese>
+		<animation>swf/b04_l10_v03ani.swf</animation>
+		<stroke>swf/b04_l10_v03str.swf</stroke>
+		<sound>mp3/qiu1-f.mp3</sound>
+		<link>data/b04_l10_v03_w01.xml</link>
+	</word>
+</vocabulary>

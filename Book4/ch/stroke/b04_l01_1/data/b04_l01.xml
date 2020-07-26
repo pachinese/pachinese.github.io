@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>叔</chinese>
+		<pinyin>shú </pinyin>
+		<link>data/b04_l01_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>中</chinese>
+		<pinyin>zhōng </pinyin>
+		<link>data/b04_l01_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>海</chinese>
+		<pinyin>hǎi </pinyin>
+		<link>data/b04_l01_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>裡</chinese>
+		<pinyin>lǐ </pinyin>
+		<link>data/b04_l01_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>外</chinese>
+		<pinyin>wài </pinyin>
+		<link>data/b04_l01_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>公</chinese>
+		<pinyin>gōng </pinyin>
+		<link>data/b04_l01_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>婆</chinese>
+		<pinyin>pó </pinyin>
+		<link>data/b04_l01_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>次</chinese>
+		<pinyin>cì </pinyin>
+		<link>data/b04_l01_v08.xml</link>
+	</vocabulary>   
+</list>

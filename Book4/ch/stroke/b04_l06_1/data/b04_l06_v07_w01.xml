@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="網">
+	<direction id="1">2,7</direction>
+	<direction id="2">2,7</direction>
+                    <direction id="3">8</direction>
+                    <direction id="4">8</direction>
+                    <direction id="5">8</direction>
+                    <direction id="6">8</direction>
+	<direction id="7">1</direction>
+	<direction id="8">7,1,4</direction>
+                    <direction id="9">8</direction>
+                    <direction id="10">2</direction>
+                    <direction id="11">7</direction>
+                    <direction id="12">8</direction>
+	<direction id="13">7</direction>
+	<direction id="14">1,7</direction>
+</word>

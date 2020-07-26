@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>雨</chinese>
+		<pinyin>yǔ </pinyin>
+		<link>data/b04_l09_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>雪</chinese>
+		<pinyin>xuě </pinyin>
+		<link>data/b04_l09_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>冷</chinese>
+		<pinyin>lěng </pinyin>
+		<link>data/b04_l09_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>熱</chinese>
+		<pinyin>rè </pinyin>
+		<link>data/b04_l09_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>明</chinese>
+		<pinyin>míng </pinyin>
+		<link>data/b04_l09_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>昨</chinese>
+		<pinyin>zuó </pinyin>
+		<link>data/b04_l09_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>出</chinese>
+		<pinyin>chū </pinyin>
+		<link>data/b04_l09_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>氣</chinese>
+		<pinyin>qì </pinyin>
+		<link>data/b04_l09_v08.xml</link>
+	</vocabulary>   
+</list>

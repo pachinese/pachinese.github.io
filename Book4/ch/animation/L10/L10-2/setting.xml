@@ -1,0 +1,29 @@
+﻿<?xml﻿ version="1.0" encoding="utf-8"?>
+<setting>
+	<course>
+	<!-- name:名稱 專案名稱_課程名稱 -->
+		<name>0830_華語小學堂_動畫L1</name>
+	<!-- autoLoad:自動讀取 開啟 / 關閉 -->
+		<autoLoad>關閉</autoLoad>
+	<!-- autoRecord:自動紀錄 開啟 / 關閉 -->
+		<autoRecord>關閉</autoRecord>
+	<!-- autoChangePage:自動換下一頁 開啟 / 關閉 -->
+		<autoChangePage>關閉</autoChangePage>
+	<!-- autoChangeSection:自動換下一節 開啟 / 關閉 -->
+		<autoChangeSection>關閉</autoChangeSection>
+	<!-- autoChangeChapter:自動換下一章 開啟 / 關閉 -->
+		<autoChangeChapter>關閉</autoChangeChapter>
+	<!-- autoRecordVolume:自動紀錄音量 開啟 / 關閉 -->
+		<autoRecordVolume>開啟</autoRecordVolume>
+	<!-- autoRecordMusic:自動紀錄背景音樂 開啟 / 關閉 -->
+		<autoRecordMusic>開啟</autoRecordMusic>
+	<!-- autoRecordSubtitle:自動紀錄字幕 開啟 / 關閉 -->
+		<autoRecordSubtitle>關閉</autoRecordSubtitle>
+	<!-- defaultChapter:預設章數 數字 -->
+		<defaultChapter>0</defaultChapter>
+	<!-- defaultSection:預設節數 數字 -->
+		<defaultSection>0</defaultSection>
+	<!-- defaultNowPage:預設頁數 數字 -->
+		<defaultNowPage>1</defaultNowPage>
+	</course>
+</setting>

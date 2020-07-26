@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>老</chinese>
+		<pinyin>lǎo </pinyin>
+		<link>data/b04_l04_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>師</chinese>
+		<pinyin>shī </pinyin>
+		<link>data/b04_l04_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>前</chinese>
+		<pinyin>qián </pinyin>
+		<link>data/b04_l04_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>後</chinese>
+		<pinyin>hòu </pinyin>
+		<link>data/b04_l04_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>參</chinese>
+		<pinyin>cān </pinyin>
+		<link>data/b04_l04_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>加</chinese>
+		<pinyin>jiā </pinyin>
+		<link>data/b04_l04_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>半</chinese>
+		<pinyin>bàn </pinyin>
+		<link>data/b04_l04_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>間</chinese>
+		<pinyin>jiān </pinyin>
+		<link>data/b04_l04_v08.xml</link>
+	</vocabulary>   
+</list>

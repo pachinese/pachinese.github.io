@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>外</chinese>
+		<animation>swf/b01_l15_v01_w01_ani.swf</animation>
+		<stroke>swf/b01_l15_v01_w01_str.swf</stroke>
+		<sound>mp3/wai4-f.mp3</sound>
+		<link>data/b04_l01_v05_w01.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="2">
+		<chinese>您</chinese>
+		<animation>swf/b04_l05_v02ani.swf</animation>
+		<stroke>swf/b04_l05_v02str.swf</stroke>
+		<sound>mp3/nin2-f.mp3</sound>
+		<link>data/b04_l05_v02_w01.xml</link>
+	</word>
+</vocabulary>

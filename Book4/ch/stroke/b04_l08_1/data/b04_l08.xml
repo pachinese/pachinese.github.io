@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>近</chinese>
+		<pinyin>jìn </pinyin>
+		<link>data/b04_l08_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>視</chinese>
+		<pinyin>shì </pinyin>
+		<link>data/b04_l08_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>道</chinese>
+		<pinyin>dào </pinyin>
+		<link>data/b04_l08_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>科</chinese>
+		<pinyin>kē </pinyin>
+		<link>data/b04_l08_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>眼</chinese>
+		<pinyin>yǎn </pinyin>
+		<link>data/b04_l08_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>睛</chinese>
+		<pinyin>jīng </pinyin>
+		<link>data/b04_l08_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>休</chinese>
+		<pinyin>xiū </pinyin>
+		<link>data/b04_l08_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>息</chinese>
+		<pinyin>xí </pinyin>
+		<link>data/b04_l08_v08.xml</link>
+	</vocabulary>   
+</list>

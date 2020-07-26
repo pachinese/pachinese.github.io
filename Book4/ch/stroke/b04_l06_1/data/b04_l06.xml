@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>借</chinese>
+		<pinyin>jiè </pinyin>
+		<link>data/b04_l06_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>全</chinese>
+		<pinyin>quán </pinyin>
+		<link>data/b04_l06_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>書</chinese>
+		<pinyin>shū </pinyin>
+		<link>data/b04_l06_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>百</chinese>
+		<pinyin>bǎi </pinyin>
+		<link>data/b04_l06_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>本</chinese>
+		<pinyin>běn </pinyin>
+		<link>data/b04_l06_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>故</chinese>
+		<pinyin>gù </pinyin>
+		<link>data/b04_l06_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>網</chinese>
+		<pinyin>wǎng </pinyin>
+		<link>data/b04_l06_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>久</chinese>
+		<pinyin>jiǔ </pinyin>
+		<link>data/b04_l06_v08.xml</link>
+	</vocabulary>   
+</list>

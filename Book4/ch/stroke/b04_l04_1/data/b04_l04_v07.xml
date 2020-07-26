@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>半</chinese>
+		<animation>swf/B4L4_v71_ani.swf</animation>
+		<stroke>swf/B4L4_v71_str.swf</stroke>
+		<sound>mp3/ban4-f.mp3</sound>
+		<link>data/b04_l04_v07_w01.xml</link>
+
+	</word>       
+</vocabulary>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>中</chinese>
+		<animation>swf/b04_l01_v02_w01_ani.swf</animation>
+		<stroke>swf/b04_l01_v02_w01_str.swf</stroke>
+		<sound>mp3/zhong1-f.mp3</sound>
+		<link>data/b04_l01_v02_w01.xml</link>
+	</word>
+        <word id="2">
+		<chinese>國</chinese>
+		<animation>swf/b02_l10_v01_w02_ani.swf</animation>
+		<stroke>swf/b02_l10_v01_w02_str.swf</stroke>
+		<sound>mp3/B2A4L10_02.mp3</sound>
+		<link>data/b02_l10_v01_w02.xml</link>
+	</word>
+        <word id="3">
+		<chinese>餐</chinese>
+		<animation>swf/b02_l10_v01_w03_ani.swf</animation>
+		<stroke>swf/b02_l10_v01_w03_str.swf</stroke>
+		<sound>mp3/B2A4L10_03.mp3</sound>
+		<link>data/b02_l10_v01_w03.xml</link>
+	</word>
+        <word id="4">
+		<chinese>廳</chinese>
+		<animation>swf/b02_l10_v01_w04_ani.swf</animation>
+		<stroke>swf/b02_l10_v01_w04_str.swf</stroke>
+		<sound>mp3/B2A4L10_04.mp3</sound>
+		<link>data/b02_l10_v01_w04.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>故</chinese>
+		<animation>swf/b04_l06_v06ani.swf</animation>
+		<stroke>swf/b04_l06_v06str.swf</stroke>
+		<sound>mp3/gu4-f.mp3</sound>
+		<link>data/b04_l06_v06_w01.xml</link>
+
+	</word>
+</vocabulary>

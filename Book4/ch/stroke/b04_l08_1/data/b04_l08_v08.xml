@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>息</chinese>
+		<animation>swf/b04_l08_v08ani.swf</animation>
+		<stroke>swf/b04_l08_v08stri.swf</stroke>
+		<sound>mp3/xi2-f.mp3</sound>
+		<link>data/b04_l08_v08_w01.xml</link>
+	</word>
+</vocabulary>

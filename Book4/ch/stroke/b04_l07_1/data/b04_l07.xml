@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>痛</chinese>
+		<pinyin>tòng </pinyin>
+		<link>data/b04_l07_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>蛀</chinese>
+		<pinyin>zhù </pinyin>
+		<link>data/b04_l07_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>牙</chinese>
+		<pinyin>yá </pinyin>
+		<link>data/b04_l07_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>面</chinese>
+		<pinyin>miàn </pinyin>
+		<link>data/b04_l07_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>刷</chinese>
+		<pinyin>shuā </pinyin>
+		<link>data/b04_l07_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>補</chinese>
+		<pinyin>bǔ </pinyin>
+		<link>data/b04_l07_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>線</chinese>
+		<pinyin>xiàn </pinyin>
+		<link>data/b04_l07_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>要</chinese>
+		<pinyin>yào </pinyin>
+		<link>data/b04_l07_v08.xml</link>
+	</vocabulary>   
+</list>

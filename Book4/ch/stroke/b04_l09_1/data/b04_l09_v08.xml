@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>氣</chinese>
+		<animation>swf/b04_l09_v08ani.swf</animation>
+		<stroke>swf/b04_l09_v08str.swf</stroke>
+		<sound>mp3/qi4-f.mp3</sound>
+		<link>data/b04_l09_v08_w01.xml</link>
+	</word>
+</vocabulary>

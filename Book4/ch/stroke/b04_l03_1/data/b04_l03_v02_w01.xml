@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="床">
+	<direction id="1">8</direction>
+        <direction id="2">7</direction> 
+        <direction id="3">2</direction>
+        <direction id="4">7</direction>
+        <direction id="5">1</direction> 
+        <direction id="6">2</direction>
+        <direction id="7">8</direction>
+</word>
+

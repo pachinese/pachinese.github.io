@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>活</chinese>
+		<animation>swf/b04_l02_v07ani.swf</animation>
+		<stroke>swf/b04_l02_v07str.swf</stroke>
+		<sound>mp3/huo2-f.mp3</sound>
+		<link>data/b04_l02_v07_w01.xml</link>
+
+	</word>
+</vocabulary>

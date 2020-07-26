@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>找</chinese>
+		<pinyin>zhǎo </pinyin>
+		<link>data/b04_l05_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>您</chinese>
+		<pinyin>nín </pinyin>
+		<link>data/b04_l05_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>車</chinese>
+		<pinyin>chē </pinyin>
+		<link>data/b04_l05_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>見</chinese>
+		<pinyin>jiàn </pinyin>
+		<link>data/b04_l05_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>校</chinese>
+		<pinyin>xiào </pinyin>
+		<link>data/b04_l05_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>謝</chinese>
+		<pinyin>xiè </pinyin>
+		<link>data/b04_l05_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>請</chinese>
+		<pinyin>qǐng </pinyin>
+		<link>data/b04_l05_v07.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>話</chinese>
+		<pinyin>huà </pinyin>
+		<link>data/b04_l05_v08.xml</link>
+	</vocabulary>   
+</list>

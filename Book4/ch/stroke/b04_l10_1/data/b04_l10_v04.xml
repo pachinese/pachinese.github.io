@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>冬</chinese>
+		<animation>swf/b04_l10_v04ani.swf</animation>
+		<stroke>swf/b04_l10_v04str.swf</stroke>
+		<sound>mp3/dong1-f.mp3</sound>
+		<link>data/b04_l10_v04_w01.xml</link>
+	</word>
+</vocabulary>

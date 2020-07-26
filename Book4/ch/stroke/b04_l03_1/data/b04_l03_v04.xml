@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>晚</chinese>
+		<animation>swf/b04_l03_v04_w01_ani.swf</animation>
+		<stroke>swf/b04_l03_v04_w01_str.swf</stroke>
+		<sound>mp3/wan3-f.mp3</sound>
+		<link>data/b04_l03_v04_w01.xml</link>
+
+	</word>
+</vocabulary>

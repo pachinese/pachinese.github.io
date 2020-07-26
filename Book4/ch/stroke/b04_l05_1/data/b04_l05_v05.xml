@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>校</chinese>
+		<animation>swf/b04_l05_v05_w02_ani.swf</animation>
+		<stroke>swf/b04_l05_v05_w02_str.swf</stroke>
+		<sound>mp3/xiao4-f.mp3</sound>
+		<link>data/b04_l05_v05_w01.xml</link>
+
+	</word>       
+</vocabulary>
