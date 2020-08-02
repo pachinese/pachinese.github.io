@@ -1,3 +1,14 @@
+function include(filename) {
+    var head = document.getElementsByTagName('head')[0];
+
+    var script = document.createElement('script');
+    script.src = filename;
+    script.type = 'text/javascript';
+
+    head.appendChild(script)
+}
+
+
 /**
  * The Sign-In client object.
  */
@@ -17,7 +28,7 @@ var initClient = function() {
         });
 
         // Attach the click handler to the sign-in button
-        auth2.attachClickHandler('signin-button', {}, onSuccess, onFailure);
+        auth2.attachClickHandler('g-signin2', {}, onSuccess, onFailure);
     });
 };
 
