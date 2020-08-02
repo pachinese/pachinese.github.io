@@ -34,3 +34,13 @@ var onSuccess = function(user) {
 var onFailure = function(error) {
     console.log(error);
 };
+
+/**
+ * Is user signed in.
+ */
+function isUserSignedIn() {
+    gapi.load('auth2', function() {
+        var isSignedIn = auth2.isSignedIn.get();
+        console.log('is signed in? ', isSignedIn);
+    });
+}

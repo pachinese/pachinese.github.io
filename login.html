@@ -30,8 +30,7 @@
   <body>
 
     <script>
-      var auth2 = gapi.auth2.getAuthInstance();
-      if (auth2.isSignedIn.get()) {
+      if (isUserSignedIn()) {
         document.location.href = '/index.html'
       }
     </script>
