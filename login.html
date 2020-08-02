@@ -4,8 +4,6 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-signin-scope" content="profile email">
-    <meta name="google-signin-client_id" content="168851110238-usqm6qmm44ghso2qt5g6i5o8h1jdna21.apps.googleusercontent.com">
     <script src="https://apis.google.com/js/api.js?onload=onLibraryLoaded" async defer></script>
     <title>Palo Alto Chinese School: Wonderland</title>
     <link rel="icon" href="/favicon.gif">
@@ -29,8 +27,23 @@
   <body>
 
     <script>
-      var auth2 = gapi.auth2.getAuthInstance();
-      if (auth2.isSignedIn.get()) {
+      function onLibraryLoaded() {
+        gapi.load('auth2', function() {
+          gapi.auth2.init({
+            client_id: '168851110238-usqm6qmm44ghso2qt5g6i5o8h1jdna21.apps.googleusercontent.com',
+            scope: 'profile email'
+          })
+        })
+      }
+
+      function isUserSignedIn() {
+        gapi.load('auth2', function() {
+          var isSignedIn = auth2.isSignedIn.get();
+          console.log('is signed in? ', isSignedIn)
+        })
+      }
+
+      if (isUserSignedIn()) {
         document.location.href = '/index.html'
       }
     </script>
