@@ -38,7 +38,7 @@ var onFailure = function(error) {
 /**
  * Is user signed in.
  */
-function isUserSignedIn() {
+var isUserSignedIn = function() {
     gapi.load('auth2', function() {
         var isSignedIn = auth2.isSignedIn.get();
         console.log('is signed in? ', isSignedIn);
