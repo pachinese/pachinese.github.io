@@ -43,4 +43,4 @@ var isUserSignedIn = function() {
         var isSignedIn = auth2.isSignedIn.get();
         console.log('is signed in? ', isSignedIn);
     });
-}
+};
