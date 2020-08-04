@@ -21,6 +21,7 @@ function onLibraryLoaded() {
       console.log('change in sign in status ', isSignedIn);
       if(isSignedIn) {
         document.querySelector('#signout').style.display = 'block';
+        document.location = '/';
       } else {
         document.querySelector('#signout').style.display = 'none';
       }
