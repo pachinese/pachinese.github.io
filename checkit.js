@@ -24,6 +24,7 @@ function onLibraryLoaded() {
         document.location = '/';
       } else {
         document.querySelector('#signout').style.display = 'none';
+        document.location = '/login.html';
       }
       
     });
