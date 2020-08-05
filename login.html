@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/checkit.js" async defer></script>
     <script src="https://apis.google.com/js/api.js?onload=onLibraryLoaded" async defer></script>
-    <title>Palo Alto Chinese School: Wonderland</title>
+      <title>Palo Alto Chinese School: Wonderland</title>
     <link rel="icon" href="/favicon.gif">
 
     <style media="screen">
@@ -25,32 +26,10 @@
     </style>
   </head>
   <body>
-
-    <script>
-      function onLibraryLoaded() {
-        gapi.load('auth2', function() {
-          gapi.auth2.init({
-            client_id: '168851110238-usqm6qmm44ghso2qt5g6i5o8h1jdna21.apps.googleusercontent.com',
-            scope: 'profile email'
-          })
-        })
-      }
-
-      function isUserSignedIn() {
-        gapi.load('auth2', function() {
-          var isSignedIn = auth2.isSignedIn.get();
-          console.log('is signed in? ', isSignedIn)
-        })
-      }
-
-      if (isUserSignedIn()) {
-        document.location.href = '/index.html'
-      }
-    </script>
-
     <div id="message">
       <h2>Palo Alto Chinese School</h2>
       <h1>Wonderland VCDs</h1>
+      <div id="button3">Sign in with render function</div>
       <div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
       <p>WARNING: The VCD content contains Adobe Flash files which has potential security issues.  Use the content at your own risk.</p>
       <small>The content here is for educational purposes and is not resold.</small>
