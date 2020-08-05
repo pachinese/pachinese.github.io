@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>院</chinese>
+		<animation>swf/b04_l05_v08_1_ani.swf</animation>
+		<stroke>swf/b04_l05_v08_1_str.swf</stroke>
+		<sound>mp3/yuan4.mp3</sound>
+		<link>data/b04_l05_v08_1.xml</link>
+
+	</word>
+</vocabulary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>站</chinese>
+		<pinyin>zhàn</pinyin>
+		<link>data/B5L1_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>節</chinese>
+		<pinyin>jié</pinyin>
+		<link>data/b04_l03_v09_1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>點</chinese>
+		<pinyin>diǎn</pinyin>
+		<link>data/b02_l07_v05_1.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>場</chinese>
+		<pinyin>chǎng</pinyin>
+		<link>data/b03_l01_v01_1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>餅</chinese>
+		<pinyin>bǐng</pinyin>
+		<link>data/B5L1_5_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>聞</chinese>
+		<pinyin>wén</pinyin>
+		<link>data/B5L1_6_w1.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>院</chinese>
+		<pinyin>yuàn</pinyin>
+		<link>data/b04_l05_v08.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>喝</chinese>
+		<pinyin>hē</pinyin>
+		<link>data/b01_l18_v05.xml</link>
+	</vocabulary>   
+</list>

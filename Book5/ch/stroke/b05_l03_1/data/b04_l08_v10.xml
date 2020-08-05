@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>腦</chinese>
+		<animation>swf/b04_l08_v10ani.swf</animation>
+		<stroke>swf/b04_l08_v10str.swf</stroke>
+		<sound>mp3/nao3.mp3</sound>
+		<link>data/b04_l08_v10_1.xml</link>
+
+	</word>
+</vocabulary>

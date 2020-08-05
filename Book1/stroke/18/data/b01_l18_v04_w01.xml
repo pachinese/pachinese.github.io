@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<word name="水">
-	<direction id="1">1,4</direction>
-        <direction id="2">7,2</direction> 
-        <direction id="3">2</direction>
-        <direction id="4">8</direction>
-</word>
-

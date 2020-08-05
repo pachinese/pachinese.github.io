@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<word name="打">
-	<direction id="1">7</direction>
-        <direction id="2">1,4</direction> 
-        <direction id="3">6</direction>
-        <direction id="4">7</direction>
-        <direction id="5">1,4</direction> 
-</word>

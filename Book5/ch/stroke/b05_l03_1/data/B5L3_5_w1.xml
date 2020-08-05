@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>封</chinese>
+		<animation>swf/B5L3_5_ani.swf</animation>
+		<stroke>swf/B5L3_5_str.swf</stroke>
+		<sound>mp3/feng1.mp3</sound>
+		<link>data/B5L3_5.xml</link>
+
+	</word>
+</vocabulary>

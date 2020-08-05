@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="片">
+	<direction id="1">1</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">7</direction>
+        <direction id="4">7,1</direction>
+</word>
+

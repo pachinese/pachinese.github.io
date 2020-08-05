@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>呎</chinese>
+		<animation>swf/B5L5_7_ani.swf</animation>
+		<stroke>swf/B5L5_7_str.swf</stroke>
+		<sound>mp3/chi3.mp3</sound>
+		<link>data/B5L5_7.xml</link>
+
+	</word>
+</vocabulary>

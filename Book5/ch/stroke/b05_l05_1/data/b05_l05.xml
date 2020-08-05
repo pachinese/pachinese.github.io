@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>龍</chinese>
+		<pinyin>lóng </pinyin>
+		<link>data/B5L5_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>虎</chinese>
+		<pinyin>hǔ</pinyin>
+		<link>data/B5L5_2_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>鼠</chinese>
+		<pinyin>shǔ</pinyin>
+		<link>data/B5L5_3_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>蛇</chinese>
+		<pinyin>shé</pinyin>
+		<link>data/B5L5_4_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>重</chinese>
+		<pinyin>zhòng</pinyin>
+		<link>data/B5L5_5_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>高</chinese>
+		<pinyin>gāo</pinyin>
+		<link>data/b02_l02_v01.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>呎</chinese>
+		<pinyin>chǐ</pinyin>
+		<link>data/B5L5_7_w1.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>磅</chinese>
+		<pinyin>bàng</pinyin>
+		<link>data/B5L5_8_w1.xml</link>
+	</vocabulary>   
+</list>

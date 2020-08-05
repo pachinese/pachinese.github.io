@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>接</chinese>
+		<animation>swf/B5L1_4_ani.swf</animation>
+		<stroke>swf/B5L1_4_str.swf</stroke>
+		<sound>mp3/jie1.mp3</sound>
+		<link>data/B5L1_4.xml</link>
+
+	</word>
+</vocabulary>
