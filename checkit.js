@@ -30,19 +30,19 @@ function onLibraryLoaded() {
     });
   });
 
-  gapi.load('signin2', function() {
-    // Method 3: render a sign in button
-    // using this method will show Signed In if the user is already signed in
-    var opts = {
-      width: 200,
-      height: 50,
-      onSuccess: function(googleUser) {
-        console.log('signin2 success: '.googleUser);
-        //document.querySelector('#name').innerText = JSON.stringify(googleUser);
-      }
-    };
-    gapi.signin2.render('button3', opts);
-  });
+  //gapi.load('signin2', function() {
+  //  // Method 3: render a sign in button
+  //  // using this method will show Signed In if the user is already signed in
+  //  var opts = {
+  //    width: 200,
+  //    height: 50,
+  //    onSuccess: function(googleUser) {
+  //      console.log('signin2 success: '.googleUser);
+  //      //document.querySelector('#name').innerText = JSON.stringify(googleUser);
+  //    }
+  //  };
+  //  gapi.signin2.render('button3', opts);
+  //});
 }
 
 
