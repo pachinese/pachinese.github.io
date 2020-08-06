@@ -43,6 +43,10 @@ function onLibraryLoaded() {
   //  };
   //  gapi.signin2.render('button3', opts);
   //});
+
+  if (!isUserSignedIn()) {
+    document.location = '/login.html';
+  }
 }
 
 
@@ -75,8 +79,4 @@ function signOut() {
     console.log('user signed out');
     //document.querySelector('#name').innerText = 'user signed out';
   });
-}
-
-if (!isUserSignedIn()) {
-    document.location = '/login.html';
 }
