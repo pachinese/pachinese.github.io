@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>軍</chinese>
+		<animation>swf/B6L3_1_ani.swf</animation>
+		<stroke>swf/B6L3_1_str.swf</stroke>
+		<sound>mp3/jun1.mp3</sound>
+		<link>data/B6L3_1.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="百">
+	<direction id="1">7</direction>
+	<direction id="2">2</direction>
+	<direction id="3">1</direction>
+	<direction id="4">7,1,4</direction>
+	<direction id="5">7</direction>
+	<direction id="6">7</direction>
+</word>

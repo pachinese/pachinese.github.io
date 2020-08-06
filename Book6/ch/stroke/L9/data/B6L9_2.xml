@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>寒</chinese>
+		<animation>swf/B6L9_2_ani.swf</animation>
+		<stroke>swf/B6L9_2_str.swf</stroke>
+		<sound>mp3/han2.mp3</sound>
+		<link>data/B6L9_2_w1.xml</link>
+	</word>
+</vocabulary>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>救</chinese>
+		<animation>swf/B6L2_1_ani.swf</animation>
+		<stroke>swf/B6L2_1_str.swf</stroke>
+		<sound>mp3/jiu4.mp3</sound>
+		<link>data/B6L2_1.xml</link>
+	</word>
+</vocabulary>

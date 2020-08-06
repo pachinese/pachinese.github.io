@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="笑">
+	<direction id="1">2</direction>
+        <direction id="2">7</direction> 
+        <direction id="3">8</direction>
+        <direction id="4">2</direction> 
+        <direction id="5">7</direction>
+        <direction id="6">8</direction> 
+        <direction id="7">3</direction>
+        <direction id="8">7</direction>
+        <direction id="9">2</direction> 
+        <direction id="10">8</direction>
+</word>
+

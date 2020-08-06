@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>開</chinese>
+		<pinyin>kāi</pinyin>
+		<link>data/B6L4_1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>始</chinese>
+		<pinyin>shǐ</pinyin>
+		<link>data/b06_l04_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>煮</chinese>
+		<pinyin>zhǔ</pinyin>
+		<link>data/b02_l04_v04.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>材</chinese>
+		<pinyin>cái</pinyin>
+		<link>data/B6L4_4_1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>會</chinese>
+		<pinyin>huì</pinyin>
+		<link>data/B6L4_5.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>知</chinese>
+		<pinyin>zhī</pinyin>
+		<link>data/b01_l04_v03.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>笑</chinese>
+		<pinyin>xiào</pinyin>
+		<link>data/B6L4_7_1.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>說</chinese>
+		<pinyin>shuō</pinyin>
+		<link>data/B6L4_8.xml</link>
+	</vocabulary>   
+</list>

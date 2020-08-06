@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="名">
+	<direction id="1">2</direction>
+        <direction id="2">7,2</direction> 
+        <direction id="3">8</direction>
+        <direction id="4">1</direction>
+        <direction id="5">7,1</direction>
+        <direction id="6">7</direction> 
+</word>
+
