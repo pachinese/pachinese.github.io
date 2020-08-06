@@ -43,10 +43,6 @@ function onLibraryLoaded() {
   //  };
   //  gapi.signin2.render('button3', opts);
   //});
-
-  if (!isUserSignedIn()) {
-    document.location = '/login.html';
-  }
 }
 
 

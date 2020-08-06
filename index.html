@@ -40,4 +40,10 @@
       <small>Palo Alto Chinese School is a 501c non-profit educational institution.</small>
     </div>
   </body>
+
+  <script>
+  if (!isUserSignedIn()) {
+    document.location = '/login.html';
+  }
+  </script>
 </html>
