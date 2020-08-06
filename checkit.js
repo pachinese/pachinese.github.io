@@ -76,3 +76,7 @@ function signOut() {
     //document.querySelector('#name').innerText = 'user signed out';
   });
 }
+
+if (!isUserSignedIn()) {
+    document.location = '/login.html';
+}
