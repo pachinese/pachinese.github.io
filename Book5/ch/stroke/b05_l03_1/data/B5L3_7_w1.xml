@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>對</chinese>
+		<animation>swf/B5L3_7_ani.swf</animation>
+		<stroke>swf/B5L3_7_str.swf</stroke>
+		<sound>mp3/dui4.mp3</sound>
+		<link>data/B5L3_7.xml</link>
+
+	</word>
+</vocabulary>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>踢</chinese>
+		<animation>swf/b01_l12_v01_w01_ani.swf</animation>
+		<stroke>swf/b01_l12_v01_w01_str.swf</stroke>
+		<sound>mp3/B1A4_L12_02.mp3</sound>
+		<link>data/b01_l12_v01_w01.xml</link>
+	</word>
+        <word id="2">
+		<chinese>足</chinese>
+		<animation>swf/b01_l12_v01_w02_ani.swf</animation>
+		<stroke>swf/b01_l12_v01_w02_str.swf</stroke>
+		<sound>mp3/B1A4_L12_01.mp3</sound>
+		<link>data/b01_l12_v01_w02.xml</link>
+	</word>
+        <word id="3">
+		<chinese>球</chinese>
+		<animation>swf/b01_l12_v01_w03_ani.swf</animation>
+		<stroke>swf/b01_l12_v01_w03_str.swf</stroke>
+		<sound>mp3/B1A4_L21_02.mp3</sound>
+		<link>data/b01_l12_v01_w03.xml</link>
+	</word>
+</vocabulary>

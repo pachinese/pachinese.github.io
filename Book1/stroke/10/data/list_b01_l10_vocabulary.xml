@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>游</chinese>
+		<pinyin>yóu</pinyin>
+		<link>data/b01_l10_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>溜</chinese>
+		<pinyin>liū</pinyin>
+		<link>data/b01_l10_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>唱歌</chinese>
+		<pinyin>chànggē</pinyin>
+		<link>data/b01_l10_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>打</chinese>
+		<pinyin>dă</pinyin>
+		<link>data/b01_l10_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>滑</chinese>
+		<pinyin>huá</pinyin>
+		<link>data/b01_l10_v05.xml</link>
+	</vocabulary>
+</list>

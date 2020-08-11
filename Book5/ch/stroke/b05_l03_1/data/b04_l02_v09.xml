@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>館</chinese>
+		<animation>swf/b04_l02_v09ani.swf</animation>
+		<stroke>swf/b04_l02_v09str.swf</stroke>
+		<sound>mp3/guan3.mp3</sound>
+		<link>data/b04_l02_v09_1.xml</link>
+
+	</word>
+</vocabulary>

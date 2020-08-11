@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>你</chinese>
+		<animation>swf/b01_l01_v01_w01_ani.swf</animation>
+		<stroke>swf/b01_l01_v01_w01_str.swf</stroke>
+		<sound>mp3/B1A4_L01_01.mp3</sound>
+		<link>data/b01_l01_v01_w01.xml</link>
+	</word>
+	<word id="2">
+		<chinese>好</chinese>
+		<animation>swf/b01_l03_v11_w02_ani.swf</animation>
+		<stroke>swf/b01_l03_v11_w02_str.swf</stroke>
+		<sound>mp3/B1A4_L03_11.mp3</sound>
+		<link>data/b01_l03_v11_w02.xml</link>
+	</word>
+</vocabulary>

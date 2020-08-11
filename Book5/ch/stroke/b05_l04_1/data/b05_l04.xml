@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>國</chinese>
+		<pinyin>guó</pinyin>
+		<link>data/B5L4_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>新</chinese>
+		<pinyin>xīn</pinyin>
+		<link>data/b04_l04_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>機</chinese>
+		<pinyin>jī</pinyin>
+		<link>data/B5L4_3_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>片</chinese>
+		<pinyin>piàn</pinyin>
+		<link>data/B5L4_4_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>較</chinese>
+		<pinyin>jiào</pinyin>
+		<link>data/B5L4_5_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>照</chinese>
+		<pinyin>zhào</pinyin>
+		<link>data/B5L4_6_w1.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>影</chinese>
+		<pinyin>yǐng</pinyin>
+		<link>data/b03_l06_v02.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>部</chinese>
+		<pinyin>bù</pinyin>
+		<link>data/B5L4_8_w1.xml</link>
+	</vocabulary>   
+</list>

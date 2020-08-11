@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>葉</chinese>
+		<pinyin>yè</pinyin>
+		<link>data/B5L9_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>每</chinese>
+		<pinyin>měi</pinyin>
+		<link>data/b04_l07_v08_1.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>便</chinese>
+		<pinyin>biàn</pinyin>
+		<link>data/b03_l10_v08.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>樂</chinese>
+		<pinyin>lè</pinyin>
+		<link>data/b03_l06_v07_w04_1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>澡</chinese>
+		<pinyin>zǎo</pinyin>
+		<link>data/b02_l04_v05.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>清</chinese>
+		<pinyin>qīng</pinyin>
+		<link>data/b04_l08_v06.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>累</chinese>
+		<pinyin>lèi</pinyin>
+		<link>data/b03_l04_v03.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>期</chinese>
+		<pinyin>qī</pinyin>
+		<link>data/b03_l03_v07.xml</link>
+	</vocabulary>   
+</list>

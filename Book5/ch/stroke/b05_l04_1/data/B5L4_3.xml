@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="機">
+	<direction id="1">7</direction>
+	<direction id="2">1</direction>
+	<direction id="3">2</direction>
+	<direction id="4">8</direction>
+	<direction id="5">2,7</direction>
+	<direction id="6">2,7</direction>
+	<direction id="7">8</direction>
+	<direction id="8">2,7</direction>
+	<direction id="9">2,7</direction>
+	<direction id="10">8</direction>
+	<direction id="11">7</direction>
+	<direction id="12">2</direction>
+	<direction id="13">8</direction>
+	<direction id="14">8,5</direction>
+	<direction id="15">8</direction>
+	<direction id="16">2</direction>
+</word>

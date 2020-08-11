@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>位</chinese>
+		<pinyin>wèi</pinyin>
+		<link>data/B5L3_1_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>電</chinese>
+		<pinyin>diàn</pinyin>
+		<link>data/b01_l12_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>圖</chinese>
+		<pinyin>tú</pinyin>
+		<link>data/B5L3_3.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>腦</chinese>
+		<pinyin>nǎo</pinyin>
+		<link>data/b04_l08_v10.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>封</chinese>
+		<pinyin>fēng</pinyin>
+		<link>data/B5L3_5_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>等</chinese>
+		<pinyin>děng</pinyin>
+		<link>data/B5L3_6_w1.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>對</chinese>
+		<pinyin>duì</pinyin>
+		<link>data/B5L3_7_w1.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>館</chinese>
+		<pinyin>guǎn</pinyin>
+		<link>data/b04_l02_v09.xml</link>
+	</vocabulary>   
+</list>

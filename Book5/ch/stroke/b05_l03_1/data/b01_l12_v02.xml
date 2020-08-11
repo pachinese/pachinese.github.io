@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>電</chinese>
+		<animation>swf/b01_l12_v02_w02_ani.swf</animation>
+		<stroke>swf/b01_l12_v02_w02_str.swf</stroke>
+		<sound>mp3/dian4.mp3</sound>
+		<link>data/b01_l12_v02_w02.xml</link>
+
+	</word>
+</vocabulary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>包</chinese>
+		<pinyin>bāo</pinyin>
+		<link>data/b01_l19_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>筆</chinese>
+		<pinyin>bǐ</pinyin>
+		<link>data/b01_l19_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>本</chinese>
+		<pinyin>běn</pinyin>
+		<link>data/b01_l19_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>還</chinese>
+		<pinyin>hái</pinyin>
+		<link>data/b01_l19_v04.xml</link>
+	</vocabulary>
+</list>

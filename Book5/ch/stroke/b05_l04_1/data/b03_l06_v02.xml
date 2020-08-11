@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>影</chinese>
+		<animation>swf/b03_l06_v02_w03_ani.swf</animation>
+		<stroke>swf/b03_l06_v02_w03_str.swf</stroke>
+		<sound>mp3/ying3.mp3</sound>
+		<link>data/b03_l06_v02_w03.xml</link>
+
+	</word>
+</vocabulary>

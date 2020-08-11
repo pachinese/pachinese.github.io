@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>味</chinese>
+		<animation>swf/B5L2_5_ani.swf</animation>
+		<stroke>swf/B5L2_5_str.swf</stroke>
+		<sound>mp3/wei4.mp3</sound>
+		<link>data/B5L2_5.xml</link>
+
+	</word>
+</vocabulary>

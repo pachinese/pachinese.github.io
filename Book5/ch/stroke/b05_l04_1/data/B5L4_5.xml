@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<word name="較">
+	<direction id="1">7</direction>
+        <direction id="2">1</direction> 
+        <direction id="3">7,1</direction>
+        <direction id="4">7</direction>
+        <direction id="5">7</direction>
+        <direction id="6">7</direction>
+        <direction id="7">1</direction> 
+        <direction id="8">8</direction>
+        <direction id="9">7</direction>
+        <direction id="10">2</direction>
+        <direction id="11">8</direction>
+        <direction id="12">2</direction> 
+        <direction id="13">8</direction>
+
+</word>
+

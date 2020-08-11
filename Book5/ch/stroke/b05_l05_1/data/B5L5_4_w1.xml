@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary>
+	<word id="1">
+		<chinese>蛇</chinese>
+		<animation>swf/B5L5_4_ani.swf</animation>
+		<stroke>swf/B5L5_4_str.swf</stroke>
+		<sound>mp3/she2.mp3</sound>
+		<link>data/B5L5_4.xml</link>
+
+	</word>
+</vocabulary>

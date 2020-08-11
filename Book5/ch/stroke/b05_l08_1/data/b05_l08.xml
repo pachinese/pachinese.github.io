@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>餐</chinese>
+		<pinyin>cān</pinyin>
+		<link>data/b02_l10_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>餓</chinese>
+		<pinyin>ề</pinyin>
+		<link>data/b02_l09_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>午</chinese>
+		<pinyin>wǔ</pinyin>
+		<link>data/B5L8_3.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>烤</chinese>
+		<pinyin>kǎo</pinyin>
+		<link>data/B5L8_4_w1.xml</link>
+	</vocabulary>
+	<vocabulary id="5">
+		<chinese>做</chinese>
+		<pinyin>zuò</pinyin>
+		<link>data/b02_l04_v07.xml</link>
+	</vocabulary>
+	<vocabulary id="6">
+		<chinese>剛</chinese>
+		<pinyin>gāng</pinyin>
+		<link>data/b03_l10_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="7">
+		<chinese>棒</chinese>
+		<pinyin>bàng</pinyin>
+		<link>data/b03_l03_v01.xml</link>
+	</vocabulary>
+        <vocabulary id="8">
+		<chinese>夠</chinese>
+		<pinyin>gòu</pinyin>
+		<link>data/B5L8_8_w1.xml</link>
+	</vocabulary>   
+</list>

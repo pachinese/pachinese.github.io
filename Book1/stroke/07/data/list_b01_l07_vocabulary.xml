@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<vocabulary id="1">
+		<chinese>眼睛</chinese>
+		<pinyin>yănjīng</pinyin>
+		<link>data/b01_l07_v01.xml</link>
+	</vocabulary>
+	<vocabulary id="2">
+		<chinese>耳朵</chinese>
+		<pinyin>ěrduō</pinyin>
+		<link>data/b01_l07_v02.xml</link>
+	</vocabulary>
+	<vocabulary id="3">
+		<chinese>手</chinese>
+		<pinyin>shǒu</pinyin>
+		<link>data/b01_l07_v03.xml</link>
+	</vocabulary>
+	<vocabulary id="4">
+		<chinese>腳</chinese>
+		<pinyin>jiăo</pinyin>
+		<link>data/b01_l07_v04.xml</link>
+	</vocabulary>
+        <vocabulary id="5">
+		<chinese>魚</chinese>
+		<pinyin>yú</pinyin>
+		<link>data/b01_l07_v05.xml</link>
+	</vocabulary>
+</list>
